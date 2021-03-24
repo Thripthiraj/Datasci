@@ -1,2 +1,2 @@
-# Datasci
+# Datascience & Machine learning
 Projects
