@@ -1,2 +1,0 @@
-# Datascience & Machine learning
-Projects
